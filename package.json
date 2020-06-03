@@ -1,0 +1,22 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "lettcode practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/relopen/leetcode.git"
+  },
+  "author": "YoungJung Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/relopen/leetcode/issues"
+  },
+  "homepage": "https://github.com/relopen/leetcode#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
