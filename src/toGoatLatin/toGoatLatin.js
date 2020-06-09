@@ -1,7 +1,3 @@
-/**
- * @param {string} S
- * @return {string}
- */
 const fn = (S) => {
   const words = S.split(" ");
   return words

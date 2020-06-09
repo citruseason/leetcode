@@ -1,7 +1,3 @@
-/**
- * @param {string} S
- * @return {string}
- */
 const fn = (A) => {
   const evens = [];
   const odds = [];
