@@ -2,7 +2,7 @@
  * @param {string} S
  * @return {string}
  */
-const toGoatLatin = (S) => {
+const fn = (S) => {
   const words = S.split(" ");
   return words
     .map((word, index) => {
@@ -15,4 +15,4 @@ const toGoatLatin = (S) => {
     .join(" ");
 };
 
-module.exports = toGoatLatin;
+module.exports = fn;
